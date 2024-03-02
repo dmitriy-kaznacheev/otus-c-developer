@@ -28,3 +28,6 @@
 [submodule "06-hw-logger"]
 	path = 06-hw-logger
 	url = git@github.com:kaznachey72/task06.git
+[submodule "07-hw-assermbler"]
+	path = 07-hw-assermbler
+	url = git@github.com:kaznachey72/task07.git
