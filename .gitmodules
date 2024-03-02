@@ -25,3 +25,6 @@
 [submodule "04-hw-json-rest_api"]
 	path = 04-hw-json-rest_api
 	url = git@github.com:kaznachey72/task04.git
+[submodule "06-hw-logger"]
+	path = 06-hw-logger
+	url = git@github.com:kaznachey72/task06.git
