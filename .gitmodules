@@ -34,3 +34,6 @@
 [submodule "08-hw-posix-check_memory_leaks"]
 	path = 08-hw-posix-check_memory_leaks
 	url = git@github.com:kaznachey72/task08.git
+[submodule "09-hw-ipc-unix_sockets-daemon"]
+	path = 09-hw-ipc-unix_sockets-daemon
+	url = git@github.com:kaznachey72/task09.git
