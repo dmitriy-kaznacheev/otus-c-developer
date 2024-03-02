@@ -37,3 +37,6 @@
 [submodule "12-hw-network_client"]
 	path = 12-hw-network_client
 	url = git@github.com:kaznachey72/task12.git
+[submodule "13-hw-async-http_server"]
+	path = 13-hw-async-http_server
+	url = git@github.com:kaznachey72/task13.git
