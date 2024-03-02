@@ -13,3 +13,15 @@
 [submodule "03-hw-hash_table-chain"]
 	path = 03-hw-hash_table-chain
 	url = git@github.com:kaznachey72/task03.git
+[submodule "04-hw-json_api"]
+	path = 04-hw-json_api
+	url = git@github.com:kaznachey72/task04.git
+[submodule "5-hw-plugin_gstreamer"]
+	path = 5-hw-plugin_gstreamer
+	url = git@github.com:kaznachey72/task05.git
+[submodule "05-hw-plugin_gstreamer"]
+	path = 05-hw-plugin_gstreamer
+	url = git@github.com:kaznachey72/task05.git
+[submodule "04-hw-json-rest_api"]
+	path = 04-hw-json-rest_api
+	url = git@github.com:kaznachey72/task04.git
