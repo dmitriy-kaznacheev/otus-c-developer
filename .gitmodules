@@ -40,3 +40,6 @@
 [submodule "13-hw-async-http_server"]
 	path = 13-hw-async-http_server
 	url = git@github.com:kaznachey72/task13.git
+[submodule "14-hw-db_integration"]
+	path = 14-hw-db_integration
+	url = git@github.com:kaznachey72/task14.git
