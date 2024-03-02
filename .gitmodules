@@ -37,3 +37,6 @@
 [submodule "09-hw-ipc-unix_sockets-daemon"]
 	path = 09-hw-ipc-unix_sockets-daemon
 	url = git@github.com:kaznachey72/task09.git
+[submodule "10-hw-shared_memory-checksum_crc32"]
+	path = 10-hw-shared_memory-checksum_crc32
+	url = git@github.com:kaznachey72/task10.git
