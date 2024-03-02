@@ -43,3 +43,6 @@
 [submodule "14-hw-db_integration"]
 	path = 14-hw-db_integration
 	url = git@github.com:kaznachey72/task14.git
+[submodule "15-hw-opengl-rotation_cube"]
+	path = 15-hw-opengl-rotation_cube
+	url = https://github.com/kaznachey72/task15
