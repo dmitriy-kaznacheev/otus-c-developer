@@ -49,6 +49,6 @@
 [submodule "16-hw-game-2048"]
 	path = 16-hw-game-2048
 	url = https://github.com/kaznachey72/task16
-[submodule "17-final_project_work-Integration_with_other_languages"]
-	path = 17-final_project_work-Integration_with_other_languages
+[submodule "17-final_-integration_with_other_languages"]
+	path = 17-final_-integration_with_other_languages
 	url = https://github.com/kaznachey72/task17
