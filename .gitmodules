@@ -31,3 +31,6 @@
 [submodule "07-hw-assermbler"]
 	path = 07-hw-assermbler
 	url = git@github.com:kaznachey72/task07.git
+[submodule "08-hw-posix-check_memory_leaks"]
+	path = 08-hw-posix-check_memory_leaks
+	url = git@github.com:kaznachey72/task08.git
