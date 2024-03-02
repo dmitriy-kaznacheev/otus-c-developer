@@ -46,3 +46,6 @@
 [submodule "15-hw-opengl-rotation_cube"]
 	path = 15-hw-opengl-rotation_cube
 	url = https://github.com/kaznachey72/task15
+[submodule "16-hw-game-2048"]
+	path = 16-hw-game-2048
+	url = https://github.com/kaznachey72/task16
