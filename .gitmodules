@@ -1,54 +1,54 @@
 [submodule "01-hw-types"]
 	path = 01-hw-types
-	url = git@github.com:kaznachey72/task01.git
+	url = git@github.com:kaznachey72/otus_c-01-hw-types.git
 [submodule "02-hw-converter"]
 	path = 02-hw-converter
-	url = git@github.com:kaznachey72/task02.git
+	url = git@github.com:kaznachey72/otus_c-02-hw-converter.git
 [submodule "03-hw-hash_table-chain"]
         path = 03-hw-hash_table-chain
-        url = git@github.com:kaznachey72/task03.git
+        url = git@github.com:kaznachey72/otus_c-03-hw-hash_table-chain.git
 [submodule "03-hw-hash_table-open_addressing"]
 	path = 03-hw-hash_table-open_addressing
-	url = git@github.com:kaznachey72/task03_2.git
+	url = git@github.com:kaznachey72/otus_c-03-hw-hash_table-open_addressing.git
 [submodule "04-hw-json-rest_api"]
         path = 04-hw-json-rest_api
-        url = git@github.com:kaznachey72/task04.git
+        url = git@github.com:kaznachey72/otus_c-04-hw-json-rest_api.git
 [submodule "05-hw-plugin_gstreamer"]
 	path = 05-hw-plugin_gstreamer
-	url = git@github.com:kaznachey72/task05.git
+	url = git@github.com:kaznachey72/otus_c-05-hw-plugin_gstreamer.git
 [submodule "06-hw-logger"]
 	path = 06-hw-logger
-	url = git@github.com:kaznachey72/task06.git
+	url = git@github.com:kaznachey72/otus_c-06-hw-logger.git
 [submodule "07-hw-assermbler"]
 	path = 07-hw-assermbler
-	url = git@github.com:kaznachey72/task07.git
+	url = git@github.com:kaznachey72/otus_c-07-hw-assermbler.git
 [submodule "08-hw-posix-check_memory_leaks"]
 	path = 08-hw-posix-check_memory_leaks
-	url = git@github.com:kaznachey72/task08.git
+	url = git@github.com:kaznachey72/otus_c-08-hw-posix-check_memory_leaks.git
 [submodule "09-hw-ipc-unix_sockets-daemon"]
 	path = 09-hw-ipc-unix_sockets-daemon
-	url = git@github.com:kaznachey72/task09.git
+	url = git@github.com:kaznachey72/otus_c-09-hw-ipc-unix_sockets-daemon.git
 [submodule "10-hw-shared_memory-checksum_crc32"]
 	path = 10-hw-shared_memory-checksum_crc32
-	url = git@github.com:kaznachey72/task10.git
+	url = git@github.com:kaznachey72/otus_c-10-hw-shared_memory-checksum_crc32.git
 [submodule "11-hw-threads-log_parsing"]
 	path = 11-hw-threads-log_parsing
-	url = git@github.com:kaznachey72/task11.git
+	url = git@github.com:kaznachey72/otus_c-11-hw-threads-log_parsing.git
 [submodule "12-hw-network_client"]
 	path = 12-hw-network_client
-	url = git@github.com:kaznachey72/task12.git
+	url = git@github.com:kaznachey72/otus_c-12-hw-network_client.git
 [submodule "13-hw-async-http_server"]
 	path = 13-hw-async-http_server
-	url = git@github.com:kaznachey72/task13.git
+	url = git@github.com:kaznachey72/otus_c-13-hw-async-http_server.git
 [submodule "14-hw-db_integration"]
 	path = 14-hw-db_integration
-	url = git@github.com:kaznachey72/task14.git
+	url = git@github.com:kaznachey72/otus_c-14-hw-db_integration.git
 [submodule "15-hw-opengl-rotation_cube"]
 	path = 15-hw-opengl-rotation_cube
-	url = https://github.com/kaznachey72/task15
+	url = https://github.com/kaznachey72/otus_c-15-hw-opengl-rotation_cube.git
 [submodule "16-hw-game-2048"]
 	path = 16-hw-game-2048
-	url = https://github.com/kaznachey72/task16
+	url = https://github.com/kaznachey72/otus_c-16-hw-game-2048.git
 [submodule "17-final-integration_with_other_languages"]
 	path = 17-final-integration_with_other_languages
-	url = https://github.com/kaznachey72/task17
+	url = https://github.com/kaznachey72/otus_c-17-final-integration_with_other_languages.git
