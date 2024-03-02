@@ -4,27 +4,18 @@
 [submodule "02-hw-converter"]
 	path = 02-hw-converter
 	url = git@github.com:kaznachey72/task02.git
-[submodule "03-hw-hash_tabke-chain"]
-	path = 03-hw-hash_tabke-chain
-	url = git@github.com:kaznachey72/task03.git
+[submodule "03-hw-hash_table-chain"]
+        path = 03-hw-hash_table-chain
+        url = git@github.com:kaznachey72/task03.git
 [submodule "03-hw-hash_table-open_addressing"]
 	path = 03-hw-hash_table-open_addressing
 	url = git@github.com:kaznachey72/task03_2.git
-[submodule "03-hw-hash_table-chain"]
-	path = 03-hw-hash_table-chain
-	url = git@github.com:kaznachey72/task03.git
-[submodule "04-hw-json_api"]
-	path = 04-hw-json_api
-	url = git@github.com:kaznachey72/task04.git
-[submodule "5-hw-plugin_gstreamer"]
-	path = 5-hw-plugin_gstreamer
-	url = git@github.com:kaznachey72/task05.git
+[submodule "04-hw-json-rest_api"]
+        path = 04-hw-json-rest_api
+        url = git@github.com:kaznachey72/task04.git
 [submodule "05-hw-plugin_gstreamer"]
 	path = 05-hw-plugin_gstreamer
 	url = git@github.com:kaznachey72/task05.git
-[submodule "04-hw-json-rest_api"]
-	path = 04-hw-json-rest_api
-	url = git@github.com:kaznachey72/task04.git
 [submodule "06-hw-logger"]
 	path = 06-hw-logger
 	url = git@github.com:kaznachey72/task06.git
@@ -40,3 +31,6 @@
 [submodule "10-hw-shared_memory-checksum_crc32"]
 	path = 10-hw-shared_memory-checksum_crc32
 	url = git@github.com:kaznachey72/task10.git
+[submodule "11-hw-threads-log_parsing"]
+	path = 11-hw-threads-log_parsing
+	url = git@github.com:kaznachey72/task11.git
