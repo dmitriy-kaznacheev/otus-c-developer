@@ -1,0 +1,15 @@
+[submodule "01-hw-types"]
+	path = 01-hw-types
+	url = git@github.com:kaznachey72/task01.git
+[submodule "02-hw-converter"]
+	path = 02-hw-converter
+	url = git@github.com:kaznachey72/task02.git
+[submodule "03-hw-hash_tabke-chain"]
+	path = 03-hw-hash_tabke-chain
+	url = git@github.com:kaznachey72/task03.git
+[submodule "03-hw-hash_table-open_addressing"]
+	path = 03-hw-hash_table-open_addressing
+	url = git@github.com:kaznachey72/task03_2.git
+[submodule "03-hw-hash_table-chain"]
+	path = 03-hw-hash_table-chain
+	url = git@github.com:kaznachey72/task03.git
