@@ -34,3 +34,6 @@
 [submodule "11-hw-threads-log_parsing"]
 	path = 11-hw-threads-log_parsing
 	url = git@github.com:kaznachey72/task11.git
+[submodule "12-hw-network_client"]
+	path = 12-hw-network_client
+	url = git@github.com:kaznachey72/task12.git
